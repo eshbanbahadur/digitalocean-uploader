@@ -1,0 +1,22 @@
+You need following packages in the JS version to execute it:
+
+1) Install Git according to your Operating System from:
+https://git-scm.com/downloads
+
+Run the following commands:
+
+2) npm install express
+3) npm install aws-sdk
+4) npm install multer
+
+5) Finally run this command in your console: 
+  node do_script.js
+
+  If you're seeing the message "App listening at: http://localhost:3000" after running node do_script.js, it means your Node.js application is successfully running
+  and is now listening for requests on port 3000. This is a good sign and indicates your server setup is correct. 
+  
+  Open a Web Browser: Launch any web browser of your choice.
+  Enter URL: In the address bar of the browser, type http://localhost:3000 and press Enter.
+  This directs the browser to communicate with your running Node.js application.
+
+
